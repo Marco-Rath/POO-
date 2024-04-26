@@ -1,0 +1,3 @@
+
+implements=para una herencia multiple
+para impletentar debes tener una clase abstract
